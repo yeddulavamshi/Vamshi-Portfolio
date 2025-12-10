@@ -14,6 +14,6 @@ A responsive personal portfolio website built with **React.js**. This project se
 * **Styling:** Bootstrap
 * **Tools:** VS Code
 
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](YOUR_VERCEL_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://vamshi-portfolio-phi.vercel.app/)
 
 > **[🚀 View Live Website](https://vamshi-portfolio-phi.vercel.app/)**

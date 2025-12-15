@@ -6,22 +6,22 @@ const Project = () => {
         {
             title: "To-Do List",
             desc: "A To-Do List application that allows users to add daily tasks, mark tasks as completed using a checkbox, and delete tasks when they are no longer needed. This app helps users organize their work and manage tasks efficiently.",
-            skills: ["Java", "Spring Boot", "MySQL", "React"],
+            skills: ["HTML5", "CSS3", "JavaScript"],
             github: "https://github.com/yeddulavamshi/todo-list-app"
         },
 
         {
             title: "Weather App",
-            desc: "Using To-Do List you can arrage list of tasks to do and also easy to remember in case if you forget any task you can see the tasks in the to-do application Using To-Do List you can arrage list of tasks to do and also easy to remember in case if you forget any task you can see the tasks in the to-do application",
-            skills: ["Java", "Spring Boot", "MySQL", "React"],
-            github: "https://github.com/yeddulavamshi"
+            desc: "Weather App built with React that displays real-time weather details like temperature, location, date & time, weather conditions, humidity, wind speed, and pressure using a weather API.",
+            skills: ["React", "JavaScript", "Bootstrap", "HTML5", "CSS3"],
+            github: "https://github.com/yeddulavamshi/weather-app"
         },
 
         {
             title: "First SpringBoot Application",
-            desc: "Using To-Do List you can arrage list of tasks to do and also easy to remember in case if you forget any task you can see the tasks in the to-do application",
+            desc: "This is my first springboot application, Here i can how to run a springboot project.",
             skills: ["Java", "Spring Boot", "MySQL", "Postman"],
-            github: "https://github.com/yeddulavamshi"
+            github: "https://github.com/yeddulavamshi/first-springboot-app"
         },
 
         {

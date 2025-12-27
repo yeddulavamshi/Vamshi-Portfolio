@@ -1,6 +1,6 @@
 import React from 'react'
 import { Typewriter } from 'react-simple-typewriter'
-import vamshi from '../../assets/Vamshi.jpeg'
+import vamshi from '../../assets/Vamshi.JPG'
 import './Hero.css'
 
 const Hero = () => {
